@@ -13,7 +13,7 @@ django = "^4.1.6"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^5.0.4"
-pre-commit = "^2.21.0"
+pre-commit = "^3.2.1"
 
 [build-system]
 requires = ["poetry-core"]
